@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "workspaces": [
-    "packages/js-router"
+    "packages/js-router",
+    "packages/chat"
   ]
 }
