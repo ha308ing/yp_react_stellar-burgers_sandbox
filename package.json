@@ -11,6 +11,7 @@
   "description": "",
   "workspaces": [
     "packages/js-router",
-    "packages/chat"
+    "packages/chat",
+    "packages/animation"
   ]
 }
