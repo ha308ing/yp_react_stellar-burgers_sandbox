@@ -12,6 +12,7 @@
   "workspaces": [
     "packages/js-router",
     "packages/chat",
-    "packages/animation"
+    "packages/animation",
+    "packages/ts-basics"
   ]
 }
