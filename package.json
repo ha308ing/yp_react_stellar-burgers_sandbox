@@ -13,6 +13,7 @@
     "packages/js-router",
     "packages/chat",
     "packages/animation",
-    "packages/ts-basics"
+    "packages/ts-basics",
+    "packages/react-custom"
   ]
 }
