@@ -2,9 +2,13 @@
   "name": "react-custom",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack": "5.92.1",
+    "webpack-cli": "5.1.4"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
   },
   "keywords": [],
   "author": "",
