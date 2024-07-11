@@ -1,6 +1,8 @@
 import { h } from "snabbdom";
 
 const createElement = (tag, props = {}, ...children) => {
+  children = children.flat();
+
   props = props || {};
 
   let dataProps = {};
